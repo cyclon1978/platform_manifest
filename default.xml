@@ -69,7 +69,7 @@
 <!-- END bq aquaris x5 plus Specific -->
 	
 <!-- bq Specific -->
-  <project path="vendor/bq" name="proprietary_vendor_bq" remote="cm-13" />
+  <project path="vendor/bq" name="proprietary_vendor_bq" remote="cyclon1978" revision="cm-13"/>
 <!-- END Xiaomi Specific -->
 
 <!-- LINEAGEOS -->
