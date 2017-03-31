@@ -68,8 +68,8 @@
   <project path="kernel/bq/msm8976" name="aquaris-X5-plus" remote="cyclon1978" revision="android-caf" />
 <!-- END bq aquaris x5 plus Specific -->
 	
-<!-- Xiaomi Specific -->
-  <project path="vendor/xiaomi" name="vendor_xiaomi" remote="android-caf" />
+<!-- bq Specific -->
+  <project path="vendor/bq" name="proprietary_vendor_bq" remote="cm-13" />
 <!-- END Xiaomi Specific -->
 
 <!-- LINEAGEOS -->
